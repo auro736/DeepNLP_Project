@@ -1,0 +1,92 @@
+{
+    "os": "Linux-5.15.74.2-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2022-12-02T14:45:22.678608",
+    "startedAt": "2022-12-02T14:45:22.085749",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--epochs",
+        "1",
+        "--bs",
+        "16",
+        "--eval-bs",
+        "16"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/auror/Desktop/RepoMie/DeepNLP_Project/train_val_test.py",
+    "codePath": "train_val_test.py",
+    "git": {
+        "remote": "https://github.com/auro736/DeepNLP_Project.git",
+        "commit": "aae6731740411af67e8f55a32bb26314079bac7f"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/auror/Desktop/RepoMie/DeepNLP_Project",
+    "host": "LAPTOP-17MLUHC4",
+    "username": "aurora",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1992.0059999999999,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1992.006,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 24.504863739013672
+    },
+    "gpu": "NVIDIA GeForce GTX 1050 with Max-Q Design",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1050 with Max-Q Design",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.685516357421875
+    }
+}

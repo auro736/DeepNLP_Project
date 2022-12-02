@@ -1,0 +1,2 @@
+https://github.com/persiannlp/parsinlu/tree/master/data/multiple-choice
+git from which i take persian dataset for mcqa
